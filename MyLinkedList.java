@@ -1,3 +1,10 @@
+/*
+ * Liam Gillaspy
+ * 11/7
+ * Class Period: 6
+ * A program that creates LinkedLists  
+ */ 
+
 public class MyLinkedList
 {
     private ListNode head;
