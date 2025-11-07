@@ -1,3 +1,10 @@
+/*
+ * Liam Gillaspy
+ * 11/7
+ * Class Period: 6
+ * A program that tests LinkedLists  
+ */ 
+
 public class MyLLTester
 {
   public static void main(String [] args)
